@@ -64,9 +64,18 @@
             </thead>
             <tbody>
               <tr><td>0,001</td>
-              <td>random</td>
-              <td>data</td>
-              <td>placeholder</td>
+              <td>Jaket</td>
+              <td>Rp.88.000</td>
+              <td>500</td>
+              <td>
+                <a href="#" class="text-dark">Edit</a>
+                <a href="#" class="text-dark">Hapus</a>
+              </td>
+            </tr> 
+            <tr><td>0,002</td>
+              <td>Baju</td>
+              <td>Rp.65.000</td>
+              <td>650</td>
               <td>
                 <a href="#" class="text-dark">Edit</a>
                 <a href="#" class="text-dark">Hapus</a>
